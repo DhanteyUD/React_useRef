@@ -1,4 +1,4 @@
-# React-useRef
+# React useRef
  
  - [x] The `useRef` Hook allows you to persist values between renders. 
  - [x] It can be used to store a mutable value that does not cause a re-render when updated. 
